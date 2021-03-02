@@ -1,5 +1,4 @@
 import '../styles/global.css';
-import { useState } from 'react';
 
 import { ChallengesProvider } from '../contexts/ChallengesContext';
 

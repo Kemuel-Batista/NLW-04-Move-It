@@ -26,6 +26,13 @@
    - ✅ "Context and components" 📌
    - ✅ "Improving the usability of the application" 🔥
    - ✅ "Next level with React" 🚀
+
+## Run Code
+- # 01 - To run the code just download this repository and enter the project root and execute the following commands:
+    - npm install.
+    - yarn dev (run the code and display it on screen)
+- Note: It is worth remembering that you need to have Node and Yarn installed on the machine
+- # 02 - Simply enter the website that hosts our program: https://moveit-version-1.vercel.app
    
  ## 🚀 Technologies
 
@@ -85,6 +92,13 @@ O Move It é uma aplicação que ajuda a pessoas a fazerem exercícios durante o
 Nos links abaixo você encontra o layout do projeto web. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
 - [Layout Web](https://www.figma.com/file/DWSzldsGcnMdJDVwx3ak9c/Move.it-1.0-(Copy))
+
+## Rodar Código 
+- #01 - Para rodar o código basta você baixar esse repositório e entrar na raiz do projeto e executar os seguintes comandos:
+    -- npm install .
+    -- yarn dev (rodar o código e exibir em tela)
+- Obs: Vale lembrar que você precisa estar com o Node e o Yarn instalado na máquina
+- #02 - Simplesmente entrar no site que está hospedado o nosso programa: https://moveit-version-1.vercel.app
 
 ## :memo: Licença
 
